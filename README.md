@@ -1,4 +1,4 @@
-# AI Chef Mate: A Meal Planning & Nutrition Tracking Application Powered By Agentic RAG
+# NutriGenius: A Meal Planning & Nutrition Tracking Application Powered By Agentic RAG
 
 A cutting-edge AI-powered meal planning and nutrition tracking application built with Next.js, FastAPI, and advanced Agentic RAG capabilities to help users create personalized meal plans based on available ingredients, dietary preferences, and nutritional goals.
 
@@ -15,7 +15,7 @@ A cutting-edge AI-powered meal planning and nutrition tracking application built
 
 ## Overview
 
-AI Chef Mate is a comprehensive meal planning application that leverages Agentic RAG to create personalized meal plans based on user's available ingredients, dietary preferences, and nutritional goals. The application includes features for meal planning, nutrition tracking, and ingredient recognition, providing users with a complete solution for managing their diet and meal preparation.
+NutriGenius is a comprehensive meal planning application that leverages Agentic RAG to create personalized meal plans based on user's available ingredients, dietary preferences, and nutritional goals. The application includes features for meal planning, nutrition tracking, and ingredient recognition, providing users with a complete solution for managing their diet and meal preparation.
 
 ## Key Features
 
